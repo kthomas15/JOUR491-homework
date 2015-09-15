@@ -1,2 +1,2 @@
 #Kathleen Thomas Homework#
-This is my homework for JOUR491. 
+This is my homework for JOUR491.
